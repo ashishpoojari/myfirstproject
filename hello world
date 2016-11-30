@@ -1,0 +1,7 @@
+<html>
+<body>
+<script languae ="javascript">
+<document.write="helloworld">
+</script>
+</body>
+</html>
